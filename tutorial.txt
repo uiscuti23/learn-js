@@ -1,0 +1,74 @@
+План обучения:
+
+1. Основы JavaScript
+
+папка base:
+- intro
+- variables
+- types
+- types_conversion
+- operators (базовые, сравнения)
+- conditional_branches
+- operators (логические)
+- cycles
+
+папка functions:
+- functions
+
+папка base:
+- numbers
+- strings
+
+папка addition:
+- hoisting
+
+2. Введедение в объекты и массивы
+
+папка objects:
+- objects_pt1
+- objects_pt2
+
+папка objects:
+- arrays
+- arrays_methods
+
+папка addition:
+- garbage_collection
+- methods_of_primitives
+
+3. Объекты и символы. Углубленное изучение
+
+папка objects:
+- object_properties
++ prototypes
+
+папка addition:
+- symbols
+
+папка objects:
+- object_to_primitive_conversion
+- iterables
+- map_set
+- destructive_assignment
+- date_and_time
+- json
+
+4. Продвинутая работа с функциями
+5. Классы
+
+
+6. Обработка ошибок
+7. Промисы, async/await, event loop
++fetch, axios, crud
++blob, formdata
+
+8. генераторы
+9. модули
+
+html/css
+
+browser api, dom
+
+localeStorage
+shadow dom
+regexp
